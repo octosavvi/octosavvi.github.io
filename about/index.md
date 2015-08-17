@@ -11,17 +11,24 @@ modified: 2015-8-15
 
 Octosavvi LLC was established by Kenny McElroy so he could do fun stuff for a living.
 
-### Are you looking for help with a project like these?
+### Are you looking for help with projects like these?
 
 * Embedded system security evaluation, reverse engineering or rooting
 * Electronic device prototyping, modification or otherwise soldering tiny stuff
 * Mechanical lock security evaluation, bypass development or destructive testing
+* Site/campus physical security evaluation, testing or awareness campaigning
+* Rapid prototyping with laser cutting/engraving, PCB routing or 3D printing
+* Organizing conferences, workshops or other events
+* Foosball competition or table maintenance
 
 ### Would you like to learn about topics like these?
 
 * Finding secrets hidden in hardware
-* How locks work and how they can be defeated
+* Platform design security
 * Embedded communication protocol weaknesses
+* Hardware fuzzing automation
 * Soldering, from basics to production
+* How locks work and how they can be defeated
+* Lock and entry essentials
 
-If so, send me a DM @octosavvi or email Kenny:skull:octosavvi.com.
+If so, email Kenny:skull:octosavvi.com or send me a DM @octosavvi.
