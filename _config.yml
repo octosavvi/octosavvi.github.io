@@ -1,11 +1,11 @@
 title:            Octosavvi
-description:      Latest ramblings from some guy in Portland
-#disqus_shortname: hpstrtheme
+description:      Portlander aspiring to be smart as a cephalopod
+disqus_shortname: octosavvi
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: //octosavvi.com
+url: http://octosavvi.com
 
 # Owner/author information
 owner:
@@ -29,8 +29,8 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:   UA-67362014-1
+google_verify:      Cd-VQHEKqs9eym_g5-7-0rr94XxxSaxPi8CYESVsUbI
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 

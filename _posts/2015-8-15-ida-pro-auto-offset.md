@@ -4,7 +4,6 @@ title: IDA Pro auto-offset
 description: "If your 'o' key is wearing out from converting IDA immediate values into offsets, try this bit of code."
 modified: 2015-8-15
 tags: [IDA Pro, code, Python]
-comments: false
 image:
   feature: idalarge.gif
   credit: hex-rays.com
