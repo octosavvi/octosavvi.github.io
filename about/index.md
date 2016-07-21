@@ -6,10 +6,10 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2015-8-15
+modified: 2016-7-21
 ---
 
-Octosavvi LLC was established by Kenny McElroy so he could do fun stuff for a living.
+Octosavvi LLC was established by Kenny McElroy (me!) to do fun stuff for a living.
 
 ### Are you looking for help with projects like these?
 
@@ -19,9 +19,8 @@ Octosavvi LLC was established by Kenny McElroy so he could do fun stuff for a li
 * Site/campus physical security evaluation, testing or awareness campaigning
 * Rapid prototyping with laser cutting/engraving, PCB routing or 3D printing
 * Organizing conferences, workshops or other events
-* Foosball competition or table maintenance
 
-### Would you like to learn about topics like these?
+### Are you interested in training for topics like these?
 
 * Finding secrets hidden in hardware
 * Platform design security
@@ -31,4 +30,4 @@ Octosavvi LLC was established by Kenny McElroy so he could do fun stuff for a li
 * How locks work and how they can be defeated
 * Lock and entry essentials
 
-If so, email Kenny:skull:octosavvi.com or send me a DM @octosavvi.
+If so, email Kenny:cookie:octosavvi.com or send me a DM @octosavvi.
