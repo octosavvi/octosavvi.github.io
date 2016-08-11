@@ -2,7 +2,7 @@
 layout: post
 title: Pin-tumbler lock interactive diagram
 description: "Teaching lockpicking is a little easier when people can see how the internal mechanism functions."
-modified: 2016-7-21
+modified: 2016-8-11
 tags: [Lockpicking, Teaching, Lasers, Acrylic]
 comments: false
 image:
@@ -25,5 +25,20 @@ This design allows for tool-free replacement of the pin-stack in case you want t
 * $40 - **Barebones**: no raster labels
 * $60 - **Simple**: raster labels without paint
 * $80 - **Standard**: high contrast labels
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="E9ECV9AE4DGMC">
+<table>
+<tr><td><input type="hidden" name="on0" value="Style">Select your style:</td></tr><tr><td><select name="os0">
+	<option value="Standard">Standard $80.00 USD</option>
+	<option value="Simple">Simple $60.00 USD</option>
+	<option value="Barebones">Barebones $40.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 Each piece is made to order.  So get in touch and I'll make something awesome for you!  See the about page for contact info.
