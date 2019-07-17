@@ -26,7 +26,7 @@ This design allows for tool-free replacement of the pin-stack in case you want t
 * $60 - **Simple**: raster labels without paint
 * $80 - **Standard**: high contrast labels
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="E9ECV9AE4DGMC">
 <table>
@@ -39,6 +39,8 @@ This design allows for tool-free replacement of the pin-stack in case you want t
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+</form> -->
 
-Each piece is made to order.  So get in touch and I'll make something awesome for you!  See the about page for contact info.
+Each piece is made to order.  So get in touch and I'll add you to the build queue.  See the about page for contact info.
+
+*UPDATE* If you have access to a laser cutter, vinyl cutter, arbor press and a bunch of time, try making one yourself!  Grab the SVG [design file](https://gist.github.com/aSmig/7c7f041645fce6de6d118c4225ce1e73/raw/d9025a921f845c149a8a8ddf309a97a1e1f41e5e/PTLID.svg) and head to your local hackerspace.  The tough part is allowing internal layers enough space to move freely.  Either moving parts need to be slightly thinner material, or a spacer like 30mil calendared vinyl can be used to stack up the non-moving parts.  Laser X/Y stepping on the round cuts will directly impact the ability for the plug to rotate by creating little teeth that grab the neighboring part.  Some laser carriages just aren't up to the task but slower speeds with lower power may help.  Polishing and lubrication also help.  The laser cut springs are super finicky.  Rough edges create stress concentrators and are more likely to break.  Painting is tedious but results in more durable moving parts than softer materials like Gravoply.  Tweaking hole diameters based on your laser kerf is required in order to get a good friction fit on acrylic rod.  If you get one working, I'd love to see your result!  Email me or mention on Twitter!
