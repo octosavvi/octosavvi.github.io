@@ -2,7 +2,7 @@
 layout: post
 title: Pin-tumbler lock interactive diagram
 description: "Teaching lockpicking is a little easier when people can see how the internal mechanism functions."
-modified: 2016-8-11
+modified: 2019-7-17
 tags: [Lockpicking, Teaching, Lasers, Acrylic]
 comments: false
 image:
